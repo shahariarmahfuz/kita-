@@ -3,11 +3,11 @@
 module.exports.config = {
   name: "hot", 
   version: "1.0.0", 
-  permission: 0,
+  permission: 2,
   credits: "Nayan",
   description: "Random hot video",
   prefix: true,
-  category: "Media", 
+  category: "admin", 
   usages: "", 
   cooldowns: 5,
   dependencies: {
