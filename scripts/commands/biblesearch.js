@@ -4,7 +4,7 @@ module.exports.config = {
     permission: 0,
     credits: "ryuko",
     description: "search for bible verse.",
-    prefix: false,
+    prefix: true,
     category: "without prefix",
     usages: "[john 3:16]",
     cooldowns: 2,
