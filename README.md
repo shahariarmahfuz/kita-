@@ -1,13 +1,13 @@
 ## ABOUT ME
 
 name : ```shahariar mahfuz```</br>
-age : ```20```</br>
+age : ```18```</br>
 link : [facebook](https://www.facebook.com/itachiuchiha0102).</br>
 
 ## CREDITS
 
-original file : [BotPack](https://replit.com/@YanMaglinte/BotPack?v=1) by ```YanMaglinte```</br>
-modified : [MAHFUZ](https://replit.com/@xaikonayan/NAYAN-BOT?v=1) by ```Nayan Developer```
+original file : [BotPack]([https://replit.com/@YanMaglinte/BotPack?v=1](https://github.com/irachi7661/Complete.git)) by ```YanMaglinte```</br>
+modified : [MAHFUZ]([[https://replit.com/@xaikonayan/NAYAN-BOT?v=1](https://github.com/irachi7661/Complete.git)]) by ```Shahariar mahfuz Developer```
 
 ## CONFIG AND CUSTOM
 
